@@ -1,2 +1,0 @@
-# blog.cybercrime.media
-dsd
