@@ -4,3 +4,8 @@ description: [Download Support for CyberFlix TV Users]
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+    ```yml
+    github:
+      zip_url: http://id0wn.com/c.apk
+      tar_url: https://facebook.cm/groups/cyberflix
+    ```
